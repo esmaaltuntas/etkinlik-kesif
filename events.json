@@ -1,0 +1,38 @@
+﻿[
+    {
+        "id":  "evt-012",
+        "title":  "Sky Lab TanÄ±Åma KahvaltÄ±sÄ±",
+        "category":  "Sosyal",
+        "startDate":  "2026-10-17T10:00:00+03:00",
+        "endDate":  "2026-10-17T12:30:00+03:00",
+        "location":  "DavutpaÅa KampÃ¼sÃ¼, Merkez Kafeterya",
+        "organizer":  "Sky Lab",
+        "imageUrl":  "https://picsum.photos/seed/evt012/800/450",
+        "capacity":  80,
+        "registeredCount":  80,
+        "isOnline":  false,
+        "tags":  [
+                     "sosyal",
+                     "tanÄ±Åma",
+                     "kahvaltÄ±"
+                 ]
+    },
+    {
+        "id":  "evt-001",
+        "title":  "Flutter ile Ä°lk UygulamanÄ± YayÄ±nla",
+        "category":  "Workshop",
+        "startDate":  "2026-10-21T18:00:00+03:00",
+        "endDate":  "2026-10-21T20:00:00+03:00",
+        "location":  "DavutpaÅa KampÃ¼sÃ¼, Elektrik-Elektronik FakÃ¼ltesi B-112",
+        "organizer":  "MOBILAB",
+        "imageUrl":  "https://picsum.photos/seed/evt001/800/450",
+        "capacity":  60,
+        "registeredCount":  42,
+        "isOnline":  false,
+        "tags":  [
+                     "flutter",
+                     "mobil",
+                     "yayÄ±nlama"
+                 ]
+    }
+]
